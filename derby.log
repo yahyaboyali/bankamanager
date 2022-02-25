@@ -1,0 +1,20 @@
+Sun Jan 10 14:33:30 EET 2021 : Apache Derby Network Server - 10.14.2.0 - (1828579) started and ready to accept connections on port 1527
+----------------------------------------------------------------
+Sun Jan 10 14:33:36 EET 2021:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0176-ec12-96d5-ffffadbd7591 
+on database directory C:\Users\yahya\Desktop\1306180003_Yahya_Boyalý\Bankadb with class loader sun.misc.Launcher$AppClassLoader@49476842 
+Loaded from file:/C:/Users/yahya/Desktop/1306180003_Yahya_Boyal%c4%b1/db-derby-10.14.2.0-bin/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_261-b12
+user.dir=C:\Users\yahya\Desktop\1306180003_Yahya_Boyalý\db-derby-10.14.2.0-bin
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=C:\Users\yahya\Desktop\1306180003_Yahya_Boyalý
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sun Jan 10 14:34:10 EET 2021: Shutting down Derby engine
+----------------------------------------------------------------
+Sun Jan 10 14:34:10 EET 2021:
+Shutting down instance a816c00e-0176-ec12-96d5-ffffadbd7591 on database directory C:\Users\yahya\Desktop\1306180003_Yahya_Boyalý\Bankadb with class loader sun.misc.Launcher$AppClassLoader@49476842 
+----------------------------------------------------------------

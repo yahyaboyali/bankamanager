@@ -1,0 +1,40 @@
+Geliştrme ortamım 
+	NETBEANS IDE 8.1
+	veritabanı JAVADB  derby database 
+	proje klasörüne bankadb veritabanını klasörüm 
+	VERİTABANI 
+	KULLANICI ADI : root
+			ŞİFRE : root
+Bir adet hazır banka oluşturdum testler için
+oluşturduğum müşteri, yönetici, müdür,personel tüm şifreler kolaylık açısından "1" 
+Banka adı YahyaBank 
+	sahibi: 
+		tc:12345678910
+	 şifre:1
+Bir adet şube açtım
+	Konumu Erdemli
+	ceo
+	adı: Mehmet 
+	tc: 12345678911
+	şifre: 1
+
+Bir adet müdür var
+	adı: Alperen
+	tc: 12345678912
+	şifre:1
+Bir adet personel var 
+	adı: ali
+	tc : 12345678913
+	şifre:1
+müşteri 1:
+	adı: kamil
+	tc:12345678914
+	şifre:1
+müşteri 2:
+	adı:Kenan
+	tc:12345678915
+	şife:1
+Müşteri3:
+	adı:Suna
+	tc:12345678916
+	şife:1
